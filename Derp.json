@@ -1,0 +1,12 @@
+{
+    "extensionName": "Derp",
+    "extensionPort": 1025,
+    "blockSpecs": [
+        [f, , selector],
+        
+    ],
+    "menus": {
+        "menuName": ["Option 1", "Option 2", "Option 3"],
+        
+    },
+}
